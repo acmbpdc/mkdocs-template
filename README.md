@@ -43,4 +43,4 @@ Files to be changed:
 - mkdocs.yml
 - index.md
 
-Images can be put in the docs/assets folder.
+Images can be put in the docs/assets folder. Requirement.txt must be updated with any of the python requirements.
